@@ -68,5 +68,5 @@ Send and receive messages in real-time.
 ###Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any changes you would like to make.
 
-###License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
